@@ -12,6 +12,8 @@ There are three steps to get a population in each of subway stations.
 
 ### Input Datasets
 
+---
+
 ① the number of passenger information in Seoul subway station based on an one hour
 
 - structure
@@ -50,6 +52,8 @@ by using code, quantitizing the population in each of stations in Seoul
 
 ### Preprocessed Dataset
 
+---
+
 ① the dataset that have two input datasets' informations above the passage.
 
 - structure
@@ -57,6 +61,8 @@ by using code, quantitizing the population in each of stations in Seoul
 | station_name | Latitude  | longitude  | from06_to10 | from10_to14 | ... | from02_to06 |
 | ------------ | --------- | ---------- | ----------- | ----------- | --- | ----------- |
 | 동대문       | 37.571284 | 127.008981 | 25024.50    | 31739.25    | ... | 3742.75     |
+
+![Preprocessed Dataset.PNG](./Preprocessed Dataset.PNG)
 
 > > > **station_name** : a name of subway station
 
