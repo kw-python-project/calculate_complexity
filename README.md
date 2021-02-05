@@ -81,6 +81,7 @@ by using code, quantitizing the population in each of stations in Seoul
 - **A picture of Preprocessed Dataset**
 
 <img src = "https://user-images.githubusercontent.com/67536790/107029381-460dfb00-67f2-11eb-92cb-02df5eac6802.PNG" width="80%">
+
 ### Function
 
 ---
