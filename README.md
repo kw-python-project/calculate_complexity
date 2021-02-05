@@ -1,10 +1,6 @@
 # Calculate complexity in each of subway stations at various times
 
----
-
 ## Introduction
-
----
 
 There are three steps to get a population in each of subway stations.
 
@@ -13,8 +9,6 @@ There are three steps to get a population in each of subway stations.
 3. Visualize distribution of population
 
 ## Datasets
-
----
 
 ### Input Datasets
 
