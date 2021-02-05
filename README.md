@@ -14,9 +14,9 @@ There are three steps to get a population in each of subway stations.
 
 ---
 
-① the number of passenger information in Seoul subway station based on an one hour
+**① The number of passenger information in Seoul subway station based on an one hour**
 
-- structure
+-  **Structure**
 
 | upd_date | line_num | station_name | board_pass_f04_t05 | getoff_pass_f04_t05 | ... |
 | -------- | -------- | ------------ | ------------------ | ------------------- | --- |
@@ -36,9 +36,9 @@ address: http://data.seoul.go.kr/dataList/OA-12252/S/1/datasetView.do
 
 by using code, quantitizing the population in each of stations in Seoul
 
-② the location of subway station in Seoul
+**② The location of subway station in Seoul**
 
-- structure
+- **Structure**
 
 | station_name | Latitude  | longitude  |
 | ------------ | --------- | ---------- |
@@ -56,7 +56,7 @@ by using code, quantitizing the population in each of stations in Seoul
 
 ① the dataset that have two input datasets' informations above the passage.
 
-- structure
+- **Structure**
 
 | station_name | Latitude  | longitude  | from06_to10 | from10_to14 | ... | from02_to06 |
 | ------------ | --------- | ---------- | ----------- | ----------- | --- | ----------- |
@@ -78,7 +78,7 @@ by using code, quantitizing the population in each of stations in Seoul
 
 > > > **from02_to06** : the population in each of stations from 02AM to 06AM
 
-- a picture of Preprocessed Dataset
+- **A picture of Preprocessed Dataset**
 
 <img src = "https://user-images.githubusercontent.com/67536790/107029381-460dfb00-67f2-11eb-92cb-02df5eac6802.PNG" width="80%">
 ### Function
