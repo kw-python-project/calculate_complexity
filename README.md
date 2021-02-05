@@ -32,9 +32,7 @@ There are three steps to get a population in each of subway stations.
 
 > > > getoff*pass_f *'time*start'* \_t _'time_end'_ : the number of population who get off from _'time_start_ to _'time_end'_
 
-address: http://data.seoul.go.kr/dataList/OA-12252/S/1/datasetView.do
-
-by using code, quantitizing the population in each of stations in Seoul
+**address**: http://data.seoul.go.kr/dataList/OA-12252/S/1/datasetView.do
 
 **② The location of subway station in Seoul**
 
