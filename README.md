@@ -62,7 +62,8 @@ by using code, quantitizing the population in each of stations in Seoul
 | ------------ | --------- | ---------- | ----------- | ----------- | --- | ----------- |
 | 동대문       | 37.571284 | 127.008981 | 25024.50    | 31739.25    | ... | 3742.75     |
 
-![Preprocessed Dataset.PNG](./Preprocessed Dataset.PNG)
+![Preprocessed Dataset](https://user-images.githubusercontent.com/67536790/107029381-460dfb00-67f2-11eb-92cb-02df5eac6802.PNG)
+
 
 > > > **station_name** : a name of subway station
 
